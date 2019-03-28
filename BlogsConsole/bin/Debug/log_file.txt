@@ -1,0 +1,76 @@
+2019-03-26 13:27:38.0179|INFO|BlogsConsole.MainClass|Program started
+2019-03-26 13:27:43.1450|ERROR|BlogsConsole.MainClass|No connection string named 'BlogContext' could be found in the application config file.
+2019-03-26 13:27:47.0138|INFO|BlogsConsole.MainClass|Program ended
+2019-03-26 13:45:07.9123|INFO|BlogsConsole.MainClass|Program started
+2019-03-26 13:45:13.0241|INFO|BlogsConsole.MainClass|Blog added - "Doge"
+2019-03-26 13:45:17.8246|INFO|BlogsConsole.MainClass|Program ended
+2019-03-26 13:58:48.5315|INFO|BlogsConsole.MainClass|Program started
+2019-03-26 13:58:55.7054|INFO|BlogsConsole.MainClass|Blog added - "Whatever"
+2019-03-26 14:13:46.9879|INFO|BlogsConsole.MainClass|Program started
+2019-03-26 14:13:53.0961|INFO|BlogsConsole.MainClass|Program ended
+2019-03-26 14:16:31.8194|INFO|BlogsConsole.MainClass|Program started
+2019-03-26 14:16:38.0869|INFO|BlogsConsole.MainClass|Program ended
+2019-03-28 14:10:36.5889|INFO|BlogsConsole.MainClass|Program started
+2019-03-28 14:11:21.4712|INFO|BlogsConsole.MainClass|Post added - BlogsConsole.Models.Post
+2019-03-28 14:11:44.0702|INFO|BlogsConsole.MainClass|Post added - BlogsConsole.Models.Post
+2019-03-28 14:11:47.7207|INFO|BlogsConsole.MainClass|Program ended
+2019-03-28 14:15:19.8498|INFO|BlogsConsole.MainClass|Program started
+2019-03-28 14:15:32.6113|ERROR|BlogsConsole.MainClass|LINQ to Entities does not recognize the method 'Int32 Last[Int32](System.Linq.IQueryable`1[System.Int32])' method, and this method cannot be translated into a store expression.
+2019-03-28 14:15:32.6433|ERROR|BlogsConsole.MainClass|An error occurred while updating the entries. See the inner exception for details.
+2019-03-28 14:15:35.7678|INFO|BlogsConsole.MainClass|Program ended
+2019-03-28 14:15:51.7729|INFO|BlogsConsole.MainClass|Program started
+2019-03-28 14:16:08.4038|ERROR|BlogsConsole.MainClass|LINQ to Entities does not recognize the method 'Int32 Last[Int32](System.Linq.IQueryable`1[System.Int32])' method, and this method cannot be translated into a store expression.
+2019-03-28 14:16:08.4329|ERROR|BlogsConsole.MainClass|An error occurred while updating the entries. See the inner exception for details.
+2019-03-28 14:17:25.9081|INFO|BlogsConsole.MainClass|Program started
+2019-03-28 14:17:43.4580|ERROR|BlogsConsole.MainClass|LINQ to Entities does not recognize the method 'Int32 Last[Int32](System.Linq.IQueryable`1[System.Int32])' method, and this method cannot be translated into a store expression.
+2019-03-28 14:17:43.4872|ERROR|BlogsConsole.MainClass|An error occurred while updating the entries. See the inner exception for details.
+2019-03-28 14:17:47.0633|INFO|BlogsConsole.MainClass|Program ended
+2019-03-28 14:17:55.2039|INFO|BlogsConsole.MainClass|Program started
+2019-03-28 14:18:05.0502|INFO|BlogsConsole.MainClass|Program started
+2019-03-28 14:18:16.8021|ERROR|BlogsConsole.MainClass|LINQ to Entities does not recognize the method 'Int32 Last[Int32](System.Linq.IQueryable`1[System.Int32])' method, and this method cannot be translated into a store expression.
+2019-03-28 14:18:16.8320|ERROR|BlogsConsole.MainClass|An error occurred while updating the entries. See the inner exception for details.
+2019-03-28 14:19:25.9999|INFO|BlogsConsole.MainClass|Program started
+2019-03-28 14:19:35.3918|ERROR|BlogsConsole.MainClass|An error occurred while updating the entries. See the inner exception for details.
+2019-03-28 14:19:45.4307|INFO|BlogsConsole.MainClass|Program ended
+2019-03-28 14:20:08.9417|INFO|BlogsConsole.MainClass|Program started
+2019-03-28 14:20:16.1504|ERROR|BlogsConsole.MainClass|An error occurred while updating the entries. See the inner exception for details.
+2019-03-28 14:22:18.2131|INFO|BlogsConsole.MainClass|Program started
+2019-03-28 14:22:26.2865|ERROR|BlogsConsole.MainClass|An error occurred while updating the entries. See the inner exception for details.
+2019-03-28 14:22:56.5559|INFO|BlogsConsole.MainClass|Program started
+2019-03-28 14:23:02.0901|ERROR|BlogsConsole.MainClass|LINQ to Entities does not recognize the method 'Int32 Last[Int32](System.Linq.IQueryable`1[System.Int32])' method, and this method cannot be translated into a store expression.
+2019-03-28 14:23:56.9006|INFO|BlogsConsole.MainClass|Blog added - "Cool"
+2019-03-28 14:24:06.5721|ERROR|BlogsConsole.MainClass|LINQ to Entities does not recognize the method 'Int32 Last[Int32](System.Linq.IQueryable`1[System.Int32])' method, and this method cannot be translated into a store expression.
+2019-03-28 14:25:14.5353|INFO|BlogsConsole.MainClass|Program started
+2019-03-28 14:25:21.0534|ERROR|BlogsConsole.MainClass|An error occurred while updating the entries. See the inner exception for details.
+2019-03-28 14:26:26.0079|INFO|BlogsConsole.MainClass|Program started
+2019-03-28 14:26:33.1783|INFO|BlogsConsole.MainClass|Program started
+2019-03-28 14:26:46.2441|ERROR|BlogsConsole.MainClass|An error occurred while updating the entries. See the inner exception for details.
+2019-03-28 14:28:31.5498|INFO|BlogsConsole.MainClass|Program started
+2019-03-28 14:28:37.1102|INFO|BlogsConsole.MainClass|Program started
+2019-03-28 14:29:18.3581|INFO|BlogsConsole.MainClass|Program started
+2019-03-28 14:30:06.8523|INFO|BlogsConsole.MainClass|Program started
+2019-03-28 14:30:27.1494|ERROR|BlogsConsole.MainClass|An error occurred while updating the entries. See the inner exception for details.
+2019-03-28 14:32:36.9345|INFO|BlogsConsole.MainClass|Program started
+2019-03-28 14:33:17.1464|INFO|BlogsConsole.MainClass|Program started
+2019-03-28 14:33:22.8671|ERROR|BlogsConsole.MainClass|An error occurred while updating the entries. See the inner exception for details.
+2019-03-28 14:33:46.1048|INFO|BlogsConsole.MainClass|Program started
+2019-03-28 14:33:52.2828|ERROR|BlogsConsole.MainClass|An error occurred while updating the entries. See the inner exception for details.
+2019-03-28 14:34:07.0975|INFO|BlogsConsole.MainClass|Program started
+2019-03-28 14:34:49.5128|INFO|BlogsConsole.MainClass|Program started
+2019-03-28 14:34:55.5965|ERROR|BlogsConsole.MainClass|An error occurred while updating the entries. See the inner exception for details.
+2019-03-28 14:36:38.3729|INFO|BlogsConsole.MainClass|Program started
+2019-03-28 14:36:45.3070|ERROR|BlogsConsole.MainClass|An error occurred while updating the entries. See the inner exception for details.
+2019-03-28 14:41:14.3378|INFO|BlogsConsole.MainClass|Program started
+2019-03-28 14:42:16.1498|INFO|BlogsConsole.MainClass|Program started
+2019-03-28 14:47:08.5857|INFO|BlogsConsole.MainClass|Program started
+2019-03-28 14:47:14.0594|ERROR|BlogsConsole.MainClass|An error occurred while updating the entries. See the inner exception for details.
+2019-03-28 14:49:26.5676|INFO|BlogsConsole.MainClass|Program started
+2019-03-28 14:49:31.5039|ERROR|BlogsConsole.MainClass|An error occurred while updating the entries. See the inner exception for details.
+2019-03-28 14:49:33.9680|INFO|BlogsConsole.MainClass|Program ended
+2019-03-28 14:54:37.3658|INFO|BlogsConsole.MainClass|Program started
+2019-03-28 14:54:47.8239|INFO|BlogsConsole.MainClass|Program started
+2019-03-28 14:54:52.5646|INFO|BlogsConsole.MainClass|Post added - BlogsConsole.Models.Post
+2019-03-28 14:55:01.5515|INFO|BlogsConsole.MainClass|Program ended
+2019-03-28 14:55:18.1392|INFO|BlogsConsole.MainClass|Program started
+2019-03-28 14:55:23.1889|INFO|BlogsConsole.MainClass|Post added - BlogsConsole.Models.Post
+2019-03-28 14:55:36.7039|INFO|BlogsConsole.MainClass|Program ended
