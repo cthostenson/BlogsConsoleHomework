@@ -74,3 +74,5 @@
 2019-03-28 14:55:18.1392|INFO|BlogsConsole.MainClass|Program started
 2019-03-28 14:55:23.1889|INFO|BlogsConsole.MainClass|Post added - BlogsConsole.Models.Post
 2019-03-28 14:55:36.7039|INFO|BlogsConsole.MainClass|Program ended
+2019-03-28 15:19:06.5490|INFO|BlogsConsole.MainClass|Program started
+2019-03-28 15:19:10.6111|INFO|BlogsConsole.MainClass|Program started
